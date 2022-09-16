@@ -3,7 +3,7 @@
 ## 과제 설명
 
 - 최고의 모델을 만들어주세요!
-- [Kaggle Competition](https://www.kaggle.com/t/59d4ca3681c24d7f89eeef43cb668347)
+- [Kaggle Competition](https://www.kaggle.com/t/ede1141025be411f92ea1610b6144e72)
 
 ## 제출 방법
 
