@@ -27,9 +27,9 @@
 |   1   | 9월 16일  | 비지도 학습 | [Lecture 1],[Practice 1] | [Assignment 1] |     |
 |   2   | 9월 23일  |   딥 러닝   |[Lecture 2],[Practice 2] |                |     |
 |   3   | 10월 7일  |  이상탐지   | [Lecture 3],[Practice 3] |                |     |
-|   4   | 10월 14일  | 시계열 분석 |                          |                |     |
-|   5   | 10월 21일 |     TBD     |                          |                |     |
-|   6   | 10월 28일 |     TBD     |                          |                |     |
+|   4   | 10월 14일  | 시계열 분석 | [Lecture 4],[Practice 4] |                |     |
+|   5   | 10월 21일 |    추천시스템     |                          |                |     |
+|   6   | 10월 28일 |    모델 프로토타이핑     |                          |                |     |
 
 [lecture 1]: lecture/week-01
 [lecture 2]: lecture/week-02
@@ -63,7 +63,7 @@
 
 |   Assignment   | Date Assigned | Due Date  | Tutorial | Solution | Point |
 | :------------: | :-----------: | :-------: | :------: | :------: | :---: |
-| [Assignment 1] |   9월 16일    | 10월 20일 |          |          |  100  |
+| [Assignment 1] |   9월 16일    | 10월 27일 |          |          |  100  |
 
 ## Class Assignments
 
