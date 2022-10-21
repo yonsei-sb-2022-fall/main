@@ -28,7 +28,7 @@
 |   2   | 9월 23일  |   딥 러닝   |[Lecture 2],[Practice 2] |                |     |
 |   3   | 10월 7일  |  이상탐지   | [Lecture 3],[Practice 3] |                |     |
 |   4   | 10월 14일  | 시계열 분석 | [Lecture 4],[Practice 4] |                |     |
-|   5   | 10월 21일 |    추천시스템     |                          |                |     |
+|   5   | 10월 21일 |    추천시스템     [Lecture 5],[Practice 5] |                |     |
 |   6   | 10월 28일 |    모델 프로토타이핑     |                          |                |     |
 
 [lecture 1]: lecture/week-01
