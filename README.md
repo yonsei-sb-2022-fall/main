@@ -29,7 +29,7 @@
 |   3   | 10월 7일  |  이상탐지   | [Lecture 3],[Practice 3] |                |     |
 |   4   | 10월 14일  | 시계열 분석 | [Lecture 4],[Practice 4] |                |     |
 |   5   | 10월 21일 |    추천시스템 |    [Lecture 5],[Practice 5] |                |     |
-|   6   | 10월 28일 |    모델 프로토타이핑     |                          |                |     |
+|   6   | 10월 28일 |    모델 프로토타이핑     | [Lecture 6],[Practice 6] |                |     |
 
 [lecture 1]: lecture/week-01
 [lecture 2]: lecture/week-02
